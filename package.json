@@ -1,0 +1,26 @@
+{
+  "name": "outhentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app2.js",
+  "scripts": {
+    "start": "node app2.js",
+    "build": "echo 'No build step required' ",
+    "dev": "nodemon app2.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "mongodb": "^7.1.1",
+    "mongoose": "^8.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.6"
+  }
+}
