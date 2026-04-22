@@ -2,7 +2,7 @@
 
 A web platform designed to help students access important academic resources like previous year question papers and college-related information.
 
-🌐 Live Demo: https://student-journey-guide.vercel.app
+🌐 Live Demo: 
 
 ---
 
